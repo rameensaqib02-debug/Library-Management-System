@@ -54,7 +54,7 @@ Library-Management-System/
 
 ### Main Screen
 
-![Main Screen](screenshots/main.PNG)
+![Main Screen](screenshots/Main.PNG)
 
 ### Members
 
